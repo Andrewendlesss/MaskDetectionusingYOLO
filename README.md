@@ -26,6 +26,9 @@ This service detects individuals without masks using a live camera feed. When a 
 This service analyzes recorded video footage to detect individuals not wearing masks, providing a useful tool for post-event analysis and compliance monitoring.
 The development and deployment of these services aim to provide a robust solution for monitoring and enforcing mask compliance in various public settings, thereby contributing to the mitigation of COVID-19 transmission and enhancing public health safety measures.
 
+<img width="590" alt="Screenshot 2024-06-17 at 5 51 45 PM" src="https://github.com/Andrewendlesss/MaskDetectionusingYOLO/assets/84678937/fc9a7529-87f5-4e87-8a75-77c7c90afaaa">
+
+<img width="1492" alt="Screenshot 2024-06-17 at 5 49 17 PM" src="https://github.com/Andrewendlesss/MaskDetectionusingYOLO/assets/84678937/a3c253bc-f547-4ed4-a6e3-8f9799aea023">
 
 #Training Data Source : https://public.roboflow.com/object-detection/mask-wearing
 
