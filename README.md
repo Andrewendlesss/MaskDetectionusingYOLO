@@ -1,3 +1,6 @@
+
+
+
 ## Introduction:
 The following document presents a comprehensive overview of a project focused on the detection of individuals not wearing masks. This project aims to address the critical public health need precipitated by the COVID-19 pandemic.
 
@@ -24,6 +27,9 @@ This service analyzes recorded video footage to detect individuals not wearing m
 The development and deployment of these services aim to provide a robust solution for monitoring and enforcing mask compliance in various public settings, thereby contributing to the mitigation of COVID-19 transmission and enhancing public health safety measures.
 
 
+#Training Data Source : https://public.roboflow.com/object-detection/mask-wearing
+
+#Youtube link: https://www.youtube.com/watch?v=_fpHOUl8PHg&ab_channel=AndrewChoi
 
 
 
